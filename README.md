@@ -1,5 +1,5 @@
 # freecodecamp_projects
-This repository contains projects undertaken to complete the freecodecamp certifications for Scientific Computing with Python, Data Analystics and Machine Learning.
+This repository contains projects undertaken to complete the freecodecamp certifications for Scientific Computing with Python, Data Analysis and Machine Learning.
 Additionally, links are provided to the Replit uploads for other projects.  All projects were required to pass all automated test suites.
 
 ## Scientific Computing with Python:
